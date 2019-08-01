@@ -1,18 +1,18 @@
  
  {
-	"Anchor_Information":{
+	"Anchor_Information":{                          //主播的信息
 		"Fraction":"12",
 		"introduce":"主播的介绍主播的介绍主播的介绍主播的介绍"
 	},
 	"comunm":"5",
-	"comment":[
+	"comment":[                                    //评论信息
 	{
 		"userAvatarUrl":"评论的用户头像地址",
 		"userNick":"评论的用户昵称",
 		"comments":"评论内容",
 		"Anchor_reply":"主播回复内容",
 		"replynum":"回复条数",
-		"replycom":[
+		"replycom":[                    //回复信息
 		{
 			"replyuserAvatarUrl":"回复的用户头像地址",
 			"replyuserNick":"回复的用户昵称",
